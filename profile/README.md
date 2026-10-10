@@ -1,20 +1,14 @@
 <p align="center">
-  <a href="https://quantity.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/quantity-banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/quantity-banner-light.svg">
-      <img alt="Quantity" src="./assets/quantity-banner-light.svg" width="560">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/quantity-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/quantity-banner-light.svg">
+    <img alt="Quantity" src="./assets/quantity-banner-light.svg" width="560">
+  </picture>
 </p>
 
 <p align="center">
   <strong>A self-hosted application platform.</strong><br>
   One control plane to provision, isolate and operate backend environments.
-</p>
-
-<p align="center">
-  <a href="https://quantity.dev">quantity.dev</a>
 </p>
 
 ---
