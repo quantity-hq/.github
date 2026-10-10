@@ -1,9 +1,31 @@
-# Quantity
+<p align="center">
+  <a href="https://quantity.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/quantity-banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/quantity-banner-light.svg">
+      <img alt="Quantity" src="./assets/quantity-banner-light.svg" width="560">
+    </picture>
+  </a>
+</p>
 
-Quantity is a self-hosted application platform. One control plane provisions,
-isolates and operates backend environments, giving each project its own
-PostgreSQL, authentication, data API, storage, realtime and functions runtime.
+<p align="center">
+  <strong>A self-hosted application platform.</strong><br>
+  One control plane to provision, isolate and operate backend environments.
+</p>
 
-Quantity is in active development and its repositories are private.
+<p align="center">
+  <a href="https://quantity.dev">quantity.dev</a>
+</p>
 
-[quantity.dev](https://quantity.dev)
+---
+
+Every project on Quantity gets an isolated runtime of its own:
+
+- **PostgreSQL** as the foundation, with managed roles, extensions and schema lifecycle
+- **Authentication** for identities, sessions and tokens
+- **Data API** with row-level security
+- **Storage** for buckets and objects
+- **Realtime** channels, broadcast and presence
+- **Functions** with bounded, isolated execution
+
+Quantity is in active development. Its repositories are private.
