@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quantity-hq/.github/main/profile/assets/quantity-banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quantity-hq/.github/main/profile/assets/quantity-banner-light.png">
-    <img alt="Quantity" src="https://raw.githubusercontent.com/quantity-hq/.github/main/profile/assets/quantity-banner-light.png" width="400">
+    <img alt="Quantity" src="https://raw.githubusercontent.com/quantity-hq/.github/main/profile/assets/quantity-banner-light.png" width="300">
   </picture>
 </p>
 
