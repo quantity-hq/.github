@@ -1,17 +1,10 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/quantity-banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/quantity-banner-light.svg">
-    <img alt="Quantity" src="./assets/quantity-banner-light.svg" width="560">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/quantity-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/quantity-banner-light.png">
+  <img alt="Quantity" src="./assets/quantity-banner-light.png" width="240">
+</picture>
 
-<p align="center">
-  <strong>A self-hosted application platform.</strong><br>
-  One control plane to provision, isolate and operate backend environments.
-</p>
-
----
+**A self-hosted application platform.** One control plane to provision, isolate and operate backend environments.
 
 Every project on Quantity gets an isolated runtime of its own:
 
